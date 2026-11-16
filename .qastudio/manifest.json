@@ -18,8 +18,8 @@
   "manifest_version": 1,
   "target": "playwright",
   "git_pushed": {
-    "remote": "https://github.com/AhmedSayedRepo/qa-visual-demo",
+    "remote": "https://github.com/AhmedSayedRepo/qa-visual-demo2",
     "branch": "main",
-    "at": "2026-11-16T13:28:02"
+    "at": "2026-11-16T13:35:11"
   }
 }
