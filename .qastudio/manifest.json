@@ -5,7 +5,7 @@
       "hash": "89da8c3444e03bfab1df66478d2a9b8ac1d42d57",
       "provider": "openai",
       "model": "gpt-6-sol",
-      "generatedAt": "2026-11-16T13:05:27",
+      "generatedAt": "2026-11-16T13:26:20",
       "test_cases": {
         "file-468f47b54564-VB01-1": "Login page looks the same as its baseline",
         "file-468f47b54564-VB02-2": "Checkboxes after ticking the first one",
@@ -16,5 +16,10 @@
     }
   },
   "manifest_version": 1,
-  "target": "playwright"
+  "target": "playwright",
+  "git_pushed": {
+    "remote": "https://github.com/AhmedSayedRepo/qa-visual-demo",
+    "branch": "main",
+    "at": "2026-11-16T13:06:41"
+  }
 }
